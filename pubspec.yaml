@@ -1,0 +1,21 @@
+name: rakat_smart
+description: رکعت‌شمار و مکبر هوشمند، کاملاً آفلاین
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.0
+dependencies:
+  flutter:
+    sdk: flutter
+  web: ^1.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/prayers.json
+    - assets/audio/
+  fonts:
+    - family: Vazirmatn
+      fonts:
+        - asset: assets/fonts/Vazirmatn-Regular.ttf
+        - asset: assets/fonts/Vazirmatn-Bold.ttf
+          weight: 700

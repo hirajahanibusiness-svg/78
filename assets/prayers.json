@@ -1,0 +1,9 @@
+[
+  {"id": "fajr", "name": "صبح", "rakats": 2},
+  {"id": "zuhr", "name": "ظهر", "rakats": 4},
+  {"id": "asr", "name": "عصر", "rakats": 4},
+  {"id": "maghrib", "name": "مغرب", "rakats": 3},
+  {"id": "isha", "name": "عشا", "rakats": 4},
+  {"id": "nafila", "name": "نافله", "rakats": 2},
+  {"id": "witr", "name": "وتر", "rakats": 1}
+]
